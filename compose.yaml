@@ -1,0 +1,7 @@
+﻿services:
+  diffy-cs:
+    image: diffy-cs
+    build:
+      context: .
+      dockerfile: diffy-cs/Dockerfile
+
