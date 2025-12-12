@@ -1,0 +1,6 @@
+@Diffy_HostAddress = http://localhost:5236
+
+GET {{Diffy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
